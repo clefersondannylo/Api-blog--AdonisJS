@@ -105,11 +105,10 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<img align="left" src="https://github.com/clefersondannylo.png" alt="Cleferson" width="100" height="100" />
+<img align="center" src="https://github.com/clefersondannylo.png" alt="Cleferson" width="100" height="100" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Cleferson Dannylo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clefersondannylo/)](https://www.linkedin.com/in/clefersondannylo/)[![Gmail Badge](https://img.shields.io/badge/-clefersonnascimento8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:clefersonnascimento8@gmail.com)
-
-
+[![Gmail Badge](https://img.shields.io/badge/-clefersonnascimento8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:clefersonnascimento8@gmail.com)
+---
 
 ## How to contribute
 
